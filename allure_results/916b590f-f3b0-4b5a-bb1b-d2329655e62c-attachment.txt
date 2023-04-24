@@ -1,0 +1,1 @@
+2023-04-24 18:51:21.950 | INFO     | tests.test_first:test_product_view_sku:20 - Start test

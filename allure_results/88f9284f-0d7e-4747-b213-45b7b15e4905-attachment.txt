@@ -1,0 +1,1 @@
+2023-04-24 18:52:28.979 | INFO     | tests.test_shop:test_right_way:77 - Start test TC-4

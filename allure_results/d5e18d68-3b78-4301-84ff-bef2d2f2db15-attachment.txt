@@ -1,0 +1,1 @@
+2023-04-24 18:52:01.462 | INFO     | tests.test_shop:test_products_group:35 - Start test TC-2

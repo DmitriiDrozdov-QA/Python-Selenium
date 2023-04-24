@@ -1,0 +1,1 @@
+2023-04-24 18:52:24.874 | INFO     | tests.test_shop:test_count_of_all_products:61 - Start test TC-3
